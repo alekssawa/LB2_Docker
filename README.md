@@ -1,1 +1,1 @@
-![Algorithm schema](.screenshots/Screenshot_1.jpg)
+![Algorithm schema](screenshots/Screenshot_1.jpg)
